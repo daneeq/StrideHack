@@ -1,0 +1,3578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<points>
+<point>
+<time>Wed, 09 Oct 2013 08:35:41 GMT</time>
+<value>52.21126047 0.09167754</value>
+<wkt>POINT(0.09167754 52.21126047)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:04:00 GMT</time>
+<value>51.97136439 -0.23116266</value>
+<wkt>POINT(-0.23116266 51.97136439)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:03:50 GMT</time>
+<value>51.97136438 -0.23116266</value>
+<wkt>POINT(-0.23116266 51.97136438)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:03:40 GMT</time>
+<value>51.97136439 -0.23116264</value>
+<wkt>POINT(-0.23116264 51.97136439)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:03:30 GMT</time>
+<value>51.97136446 -0.23116281</value>
+<wkt>POINT(-0.23116281 51.97136446)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:03:22 GMT</time>
+<value>51.97136442 -0.23116277</value>
+<wkt>POINT(-0.23116277 51.97136442)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:02:45 GMT</time>
+<value>51.97136443 -0.23116286</value>
+<wkt>POINT(-0.23116286 51.97136443)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:02:35 GMT</time>
+<value>51.97136442 -0.23116286</value>
+<wkt>POINT(-0.23116286 51.97136442)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:02:25 GMT</time>
+<value>51.97136441 -0.23116295</value>
+<wkt>POINT(-0.23116295 51.97136441)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:02:15 GMT</time>
+<value>51.9713644 -0.23116294</value>
+<wkt>POINT(-0.23116294 51.9713644)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:02:05 GMT</time>
+<value>51.97136439 -0.231163</value>
+<wkt>POINT(-0.231163 51.97136439)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:01:55 GMT</time>
+<value>51.97136439 -0.23116308</value>
+<wkt>POINT(-0.23116308 51.97136439)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:01:45 GMT</time>
+<value>51.97136438 -0.2311631</value>
+<wkt>POINT(-0.2311631 51.97136438)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:01:35 GMT</time>
+<value>51.97136437 -0.23116313</value>
+<wkt>POINT(-0.23116313 51.97136437)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:01:25 GMT</time>
+<value>51.97136435 -0.23116323</value>
+<wkt>POINT(-0.23116323 51.97136435)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:01:15 GMT</time>
+<value>51.97136434 -0.23116328</value>
+<wkt>POINT(-0.23116328 51.97136434)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:01:05 GMT</time>
+<value>51.97136432 -0.23116332</value>
+<wkt>POINT(-0.23116332 51.97136432)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:00:55 GMT</time>
+<value>51.97136432 -0.23116333</value>
+<wkt>POINT(-0.23116333 51.97136432)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:00:45 GMT</time>
+<value>51.97136431 -0.23116336</value>
+<wkt>POINT(-0.23116336 51.97136431)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:00:35 GMT</time>
+<value>51.9713643 -0.23116338</value>
+<wkt>POINT(-0.23116338 51.9713643)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:00:25 GMT</time>
+<value>51.97136429 -0.23116342</value>
+<wkt>POINT(-0.23116342 51.97136429)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:00:15 GMT</time>
+<value>51.97136427 -0.23116347</value>
+<wkt>POINT(-0.23116347 51.97136427)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 16:00:05 GMT</time>
+<value>51.97136426 -0.23116351</value>
+<wkt>POINT(-0.23116351 51.97136426)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:59:55 GMT</time>
+<value>51.97136426 -0.23116352</value>
+<wkt>POINT(-0.23116352 51.97136426)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:59:45 GMT</time>
+<value>51.97136426 -0.23116354</value>
+<wkt>POINT(-0.23116354 51.97136426)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:59:35 GMT</time>
+<value>51.97136425 -0.23116357</value>
+<wkt>POINT(-0.23116357 51.97136425)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:59:25 GMT</time>
+<value>51.97136424 -0.23116357</value>
+<wkt>POINT(-0.23116357 51.97136424)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:59:15 GMT</time>
+<value>51.97136423 -0.23116357</value>
+<wkt>POINT(-0.23116357 51.97136423)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:59:05 GMT</time>
+<value>51.97136423 -0.23116357</value>
+<wkt>POINT(-0.23116357 51.97136423)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:58:55 GMT</time>
+<value>51.97136422 -0.23116358</value>
+<wkt>POINT(-0.23116358 51.97136422)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:58:45 GMT</time>
+<value>51.97136421 -0.23116358</value>
+<wkt>POINT(-0.23116358 51.97136421)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:58:35 GMT</time>
+<value>51.97136421 -0.23116358</value>
+<wkt>POINT(-0.23116358 51.97136421)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:58:25 GMT</time>
+<value>51.97136421 -0.23116357</value>
+<wkt>POINT(-0.23116357 51.97136421)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:58:15 GMT</time>
+<value>51.9713642 -0.23116355</value>
+<wkt>POINT(-0.23116355 51.9713642)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:58:05 GMT</time>
+<value>51.9713642 -0.23116359</value>
+<wkt>POINT(-0.23116359 51.9713642)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:57:55 GMT</time>
+<value>51.9713642 -0.23116356</value>
+<wkt>POINT(-0.23116356 51.9713642)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:57:45 GMT</time>
+<value>51.97136419 -0.23116357</value>
+<wkt>POINT(-0.23116357 51.97136419)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:57:35 GMT</time>
+<value>51.97136418 -0.23116355</value>
+<wkt>POINT(-0.23116355 51.97136418)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:57:25 GMT</time>
+<value>51.97136417 -0.23116352</value>
+<wkt>POINT(-0.23116352 51.97136417)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:57:15 GMT</time>
+<value>51.97136417 -0.2311635</value>
+<wkt>POINT(-0.2311635 51.97136417)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:57:05 GMT</time>
+<value>51.97136415 -0.23116351</value>
+<wkt>POINT(-0.23116351 51.97136415)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:56:55 GMT</time>
+<value>51.97136414 -0.23116353</value>
+<wkt>POINT(-0.23116353 51.97136414)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:56:45 GMT</time>
+<value>51.97136412 -0.2311636</value>
+<wkt>POINT(-0.2311636 51.97136412)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:56:35 GMT</time>
+<value>51.97136411 -0.23116369</value>
+<wkt>POINT(-0.23116369 51.97136411)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:56:25 GMT</time>
+<value>51.97136409 -0.23116379</value>
+<wkt>POINT(-0.23116379 51.97136409)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:56:15 GMT</time>
+<value>51.97136407 -0.23116386</value>
+<wkt>POINT(-0.23116386 51.97136407)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:56:05 GMT</time>
+<value>51.97136405 -0.2311639</value>
+<wkt>POINT(-0.2311639 51.97136405)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:55:55 GMT</time>
+<value>51.97136401 -0.23116395</value>
+<wkt>POINT(-0.23116395 51.97136401)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:55:45 GMT</time>
+<value>51.97136399 -0.231164</value>
+<wkt>POINT(-0.231164 51.97136399)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:55:35 GMT</time>
+<value>51.97136398 -0.231164</value>
+<wkt>POINT(-0.231164 51.97136398)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:55:25 GMT</time>
+<value>51.97136396 -0.23116406</value>
+<wkt>POINT(-0.23116406 51.97136396)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:55:15 GMT</time>
+<value>51.97136395 -0.2311641</value>
+<wkt>POINT(-0.2311641 51.97136395)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:55:05 GMT</time>
+<value>51.97136393 -0.23116415</value>
+<wkt>POINT(-0.23116415 51.97136393)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:54:55 GMT</time>
+<value>51.97136392 -0.23116427</value>
+<wkt>POINT(-0.23116427 51.97136392)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:54:45 GMT</time>
+<value>51.97136391 -0.23116431</value>
+<wkt>POINT(-0.23116431 51.97136391)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:54:35 GMT</time>
+<value>51.97136391 -0.23116448</value>
+<wkt>POINT(-0.23116448 51.97136391)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:54:25 GMT</time>
+<value>51.9713639 -0.23116457</value>
+<wkt>POINT(-0.23116457 51.9713639)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:54:15 GMT</time>
+<value>51.97136388 -0.23116461</value>
+<wkt>POINT(-0.23116461 51.97136388)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:54:05 GMT</time>
+<value>51.97136388 -0.23116468</value>
+<wkt>POINT(-0.23116468 51.97136388)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:53:55 GMT</time>
+<value>51.97136387 -0.23116465</value>
+<wkt>POINT(-0.23116465 51.97136387)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:53:45 GMT</time>
+<value>51.97136386 -0.23116473</value>
+<wkt>POINT(-0.23116473 51.97136386)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:53:35 GMT</time>
+<value>51.97136385 -0.23116475</value>
+<wkt>POINT(-0.23116475 51.97136385)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:53:25 GMT</time>
+<value>51.97136385 -0.23116483</value>
+<wkt>POINT(-0.23116483 51.97136385)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:53:15 GMT</time>
+<value>51.97136385 -0.23116486</value>
+<wkt>POINT(-0.23116486 51.97136385)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:53:05 GMT</time>
+<value>51.97136384 -0.23116476</value>
+<wkt>POINT(-0.23116476 51.97136384)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:52:55 GMT</time>
+<value>51.97136384 -0.23116474</value>
+<wkt>POINT(-0.23116474 51.97136384)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:52:45 GMT</time>
+<value>51.97136384 -0.23116479</value>
+<wkt>POINT(-0.23116479 51.97136384)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:52:35 GMT</time>
+<value>51.97136382 -0.23116471</value>
+<wkt>POINT(-0.23116471 51.97136382)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:52:25 GMT</time>
+<value>51.97136381 -0.23116473</value>
+<wkt>POINT(-0.23116473 51.97136381)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:52:15 GMT</time>
+<value>51.9713638 -0.23116477</value>
+<wkt>POINT(-0.23116477 51.9713638)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:52:05 GMT</time>
+<value>51.97136377 -0.23116482</value>
+<wkt>POINT(-0.23116482 51.97136377)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:51:55 GMT</time>
+<value>51.97136377 -0.23116476</value>
+<wkt>POINT(-0.23116476 51.97136377)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:51:45 GMT</time>
+<value>51.97136375 -0.23116467</value>
+<wkt>POINT(-0.23116467 51.97136375)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:51:35 GMT</time>
+<value>51.97136373 -0.23116469</value>
+<wkt>POINT(-0.23116469 51.97136373)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:51:25 GMT</time>
+<value>51.9713637 -0.23116467</value>
+<wkt>POINT(-0.23116467 51.9713637)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:51:15 GMT</time>
+<value>51.97136369 -0.23116464</value>
+<wkt>POINT(-0.23116464 51.97136369)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:51:05 GMT</time>
+<value>51.97136367 -0.23116463</value>
+<wkt>POINT(-0.23116463 51.97136367)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:50:55 GMT</time>
+<value>51.97136365 -0.23116455</value>
+<wkt>POINT(-0.23116455 51.97136365)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:50:45 GMT</time>
+<value>51.97136363 -0.23116459</value>
+<wkt>POINT(-0.23116459 51.97136363)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:50:35 GMT</time>
+<value>51.97136361 -0.23116465</value>
+<wkt>POINT(-0.23116465 51.97136361)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:50:05 GMT</time>
+<value>51.97136358 -0.23116481</value>
+<wkt>POINT(-0.23116481 51.97136358)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:49:55 GMT</time>
+<value>51.97136358 -0.23116482</value>
+<wkt>POINT(-0.23116482 51.97136358)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:49:45 GMT</time>
+<value>51.97136357 -0.23116483</value>
+<wkt>POINT(-0.23116483 51.97136357)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:49:35 GMT</time>
+<value>51.97136358 -0.23116485</value>
+<wkt>POINT(-0.23116485 51.97136358)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:49:25 GMT</time>
+<value>51.97136358 -0.23116489</value>
+<wkt>POINT(-0.23116489 51.97136358)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:49:15 GMT</time>
+<value>51.97136358 -0.2311649</value>
+<wkt>POINT(-0.2311649 51.97136358)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:49:05 GMT</time>
+<value>51.97136357 -0.2311649</value>
+<wkt>POINT(-0.2311649 51.97136357)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:48:55 GMT</time>
+<value>51.97136355 -0.23116492</value>
+<wkt>POINT(-0.23116492 51.97136355)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:48:45 GMT</time>
+<value>51.97136352 -0.23116501</value>
+<wkt>POINT(-0.23116501 51.97136352)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:48:35 GMT</time>
+<value>51.97136349 -0.23116506</value>
+<wkt>POINT(-0.23116506 51.97136349)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:48:25 GMT</time>
+<value>51.97136348 -0.23116506</value>
+<wkt>POINT(-0.23116506 51.97136348)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:48:15 GMT</time>
+<value>51.97136348 -0.23116505</value>
+<wkt>POINT(-0.23116505 51.97136348)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:48:05 GMT</time>
+<value>51.97136346 -0.23116509</value>
+<wkt>POINT(-0.23116509 51.97136346)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:47:55 GMT</time>
+<value>51.97136344 -0.23116514</value>
+<wkt>POINT(-0.23116514 51.97136344)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:47:45 GMT</time>
+<value>51.97136341 -0.23116513</value>
+<wkt>POINT(-0.23116513 51.97136341)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:47:35 GMT</time>
+<value>51.9713634 -0.23116516</value>
+<wkt>POINT(-0.23116516 51.9713634)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:47:25 GMT</time>
+<value>51.97136338 -0.23116515</value>
+<wkt>POINT(-0.23116515 51.97136338)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:47:15 GMT</time>
+<value>51.97136335 -0.2311652</value>
+<wkt>POINT(-0.2311652 51.97136335)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:47:05 GMT</time>
+<value>51.97136334 -0.23116515</value>
+<wkt>POINT(-0.23116515 51.97136334)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:46:55 GMT</time>
+<value>51.97136331 -0.23116519</value>
+<wkt>POINT(-0.23116519 51.97136331)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:46:45 GMT</time>
+<value>51.9713633 -0.23116528</value>
+<wkt>POINT(-0.23116528 51.9713633)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:46:35 GMT</time>
+<value>51.97136327 -0.23116521</value>
+<wkt>POINT(-0.23116521 51.97136327)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:46:25 GMT</time>
+<value>51.97136325 -0.23116517</value>
+<wkt>POINT(-0.23116517 51.97136325)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:46:15 GMT</time>
+<value>51.97136323 -0.23116515</value>
+<wkt>POINT(-0.23116515 51.97136323)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:46:05 GMT</time>
+<value>51.97136321 -0.23116513</value>
+<wkt>POINT(-0.23116513 51.97136321)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:45:55 GMT</time>
+<value>51.97136319 -0.23116516</value>
+<wkt>POINT(-0.23116516 51.97136319)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:45:45 GMT</time>
+<value>51.97136317 -0.23116512</value>
+<wkt>POINT(-0.23116512 51.97136317)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:45:35 GMT</time>
+<value>51.97136314 -0.23116506</value>
+<wkt>POINT(-0.23116506 51.97136314)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:45:25 GMT</time>
+<value>51.97136312 -0.23116503</value>
+<wkt>POINT(-0.23116503 51.97136312)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:45:15 GMT</time>
+<value>51.9713631 -0.23116504</value>
+<wkt>POINT(-0.23116504 51.9713631)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:45:05 GMT</time>
+<value>51.97136309 -0.23116504</value>
+<wkt>POINT(-0.23116504 51.97136309)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:44:55 GMT</time>
+<value>51.97136308 -0.23116503</value>
+<wkt>POINT(-0.23116503 51.97136308)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:44:45 GMT</time>
+<value>51.97136308 -0.23116502</value>
+<wkt>POINT(-0.23116502 51.97136308)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:44:35 GMT</time>
+<value>51.97136307 -0.23116494</value>
+<wkt>POINT(-0.23116494 51.97136307)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:44:25 GMT</time>
+<value>51.97136306 -0.23116486</value>
+<wkt>POINT(-0.23116486 51.97136306)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:44:15 GMT</time>
+<value>51.97136306 -0.2311647</value>
+<wkt>POINT(-0.2311647 51.97136306)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:44:05 GMT</time>
+<value>51.97136305 -0.23116462</value>
+<wkt>POINT(-0.23116462 51.97136305)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:43:55 GMT</time>
+<value>51.97136304 -0.23116458</value>
+<wkt>POINT(-0.23116458 51.97136304)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:43:45 GMT</time>
+<value>51.97136302 -0.23116444</value>
+<wkt>POINT(-0.23116444 51.97136302)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:43:35 GMT</time>
+<value>51.97136302 -0.23116435</value>
+<wkt>POINT(-0.23116435 51.97136302)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:43:25 GMT</time>
+<value>51.97136301 -0.23116424</value>
+<wkt>POINT(-0.23116424 51.97136301)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:43:15 GMT</time>
+<value>51.971363 -0.23116413</value>
+<wkt>POINT(-0.23116413 51.971363)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:43:05 GMT</time>
+<value>51.97136299 -0.23116394</value>
+<wkt>POINT(-0.23116394 51.97136299)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:42:55 GMT</time>
+<value>51.97136298 -0.23116377</value>
+<wkt>POINT(-0.23116377 51.97136298)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:42:45 GMT</time>
+<value>51.97136297 -0.23116368</value>
+<wkt>POINT(-0.23116368 51.97136297)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:42:35 GMT</time>
+<value>51.97136296 -0.23116351</value>
+<wkt>POINT(-0.23116351 51.97136296)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:42:25 GMT</time>
+<value>51.97136295 -0.23116338</value>
+<wkt>POINT(-0.23116338 51.97136295)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:42:15 GMT</time>
+<value>51.97136295 -0.23116336</value>
+<wkt>POINT(-0.23116336 51.97136295)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:42:05 GMT</time>
+<value>51.97136294 -0.2311633</value>
+<wkt>POINT(-0.2311633 51.97136294)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:41:55 GMT</time>
+<value>51.97136293 -0.23116316</value>
+<wkt>POINT(-0.23116316 51.97136293)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:41:45 GMT</time>
+<value>51.97136293 -0.23116314</value>
+<wkt>POINT(-0.23116314 51.97136293)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:41:35 GMT</time>
+<value>51.97136292 -0.23116312</value>
+<wkt>POINT(-0.23116312 51.97136292)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:41:25 GMT</time>
+<value>51.97136291 -0.23116311</value>
+<wkt>POINT(-0.23116311 51.97136291)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:41:15 GMT</time>
+<value>51.9713629 -0.23116308</value>
+<wkt>POINT(-0.23116308 51.9713629)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:41:05 GMT</time>
+<value>51.97136289 -0.23116312</value>
+<wkt>POINT(-0.23116312 51.97136289)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:40:55 GMT</time>
+<value>51.97136288 -0.23116317</value>
+<wkt>POINT(-0.23116317 51.97136288)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:40:45 GMT</time>
+<value>51.97136287 -0.23116309</value>
+<wkt>POINT(-0.23116309 51.97136287)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:40:35 GMT</time>
+<value>51.97136286 -0.23116302</value>
+<wkt>POINT(-0.23116302 51.97136286)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:40:25 GMT</time>
+<value>51.97136285 -0.23116298</value>
+<wkt>POINT(-0.23116298 51.97136285)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:40:15 GMT</time>
+<value>51.97136284 -0.23116303</value>
+<wkt>POINT(-0.23116303 51.97136284)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:40:05 GMT</time>
+<value>51.97136284 -0.23116306</value>
+<wkt>POINT(-0.23116306 51.97136284)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:39:55 GMT</time>
+<value>51.97136284 -0.23116307</value>
+<wkt>POINT(-0.23116307 51.97136284)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:39:45 GMT</time>
+<value>51.97136283 -0.23116302</value>
+<wkt>POINT(-0.23116302 51.97136283)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:39:35 GMT</time>
+<value>51.97136282 -0.23116298</value>
+<wkt>POINT(-0.23116298 51.97136282)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:39:25 GMT</time>
+<value>51.97136282 -0.23116298</value>
+<wkt>POINT(-0.23116298 51.97136282)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:39:15 GMT</time>
+<value>51.97136281 -0.231163</value>
+<wkt>POINT(-0.231163 51.97136281)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:39:05 GMT</time>
+<value>51.97136282 -0.23116318</value>
+<wkt>POINT(-0.23116318 51.97136282)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:38:55 GMT</time>
+<value>51.97136283 -0.23116327</value>
+<wkt>POINT(-0.23116327 51.97136283)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:38:45 GMT</time>
+<value>51.97136282 -0.23116327</value>
+<wkt>POINT(-0.23116327 51.97136282)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:38:35 GMT</time>
+<value>51.97136281 -0.23116327</value>
+<wkt>POINT(-0.23116327 51.97136281)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:38:25 GMT</time>
+<value>51.97136281 -0.23116336</value>
+<wkt>POINT(-0.23116336 51.97136281)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:38:15 GMT</time>
+<value>51.9713628 -0.23116338</value>
+<wkt>POINT(-0.23116338 51.9713628)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:38:05 GMT</time>
+<value>51.9713628 -0.23116344</value>
+<wkt>POINT(-0.23116344 51.9713628)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:37:55 GMT</time>
+<value>51.9713628 -0.23116339</value>
+<wkt>POINT(-0.23116339 51.9713628)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:37:45 GMT</time>
+<value>51.97136279 -0.23116339</value>
+<wkt>POINT(-0.23116339 51.97136279)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:37:35 GMT</time>
+<value>51.97136278 -0.23116339</value>
+<wkt>POINT(-0.23116339 51.97136278)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:37:25 GMT</time>
+<value>51.97136278 -0.23116344</value>
+<wkt>POINT(-0.23116344 51.97136278)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:37:15 GMT</time>
+<value>51.97136278 -0.23116347</value>
+<wkt>POINT(-0.23116347 51.97136278)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:37:05 GMT</time>
+<value>51.97136278 -0.23116348</value>
+<wkt>POINT(-0.23116348 51.97136278)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:36:55 GMT</time>
+<value>51.97136278 -0.23116348</value>
+<wkt>POINT(-0.23116348 51.97136278)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:36:45 GMT</time>
+<value>51.97136278 -0.23116348</value>
+<wkt>POINT(-0.23116348 51.97136278)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:36:35 GMT</time>
+<value>51.97136279 -0.23116355</value>
+<wkt>POINT(-0.23116355 51.97136279)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:36:25 GMT</time>
+<value>51.97136279 -0.23116361</value>
+<wkt>POINT(-0.23116361 51.97136279)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:36:15 GMT</time>
+<value>51.97136279 -0.23116364</value>
+<wkt>POINT(-0.23116364 51.97136279)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:36:05 GMT</time>
+<value>51.97136279 -0.23116367</value>
+<wkt>POINT(-0.23116367 51.97136279)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:35:55 GMT</time>
+<value>51.97136278 -0.23116358</value>
+<wkt>POINT(-0.23116358 51.97136278)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:35:45 GMT</time>
+<value>51.97136279 -0.23116366</value>
+<wkt>POINT(-0.23116366 51.97136279)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:35:35 GMT</time>
+<value>51.97136279 -0.23116377</value>
+<wkt>POINT(-0.23116377 51.97136279)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:35:25 GMT</time>
+<value>51.97136279 -0.23116372</value>
+<wkt>POINT(-0.23116372 51.97136279)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:35:15 GMT</time>
+<value>51.97136279 -0.23116363</value>
+<wkt>POINT(-0.23116363 51.97136279)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:35:05 GMT</time>
+<value>51.97136278 -0.23116346</value>
+<wkt>POINT(-0.23116346 51.97136278)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:34:55 GMT</time>
+<value>51.97136278 -0.23116338</value>
+<wkt>POINT(-0.23116338 51.97136278)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:34:45 GMT</time>
+<value>51.97136277 -0.23116327</value>
+<wkt>POINT(-0.23116327 51.97136277)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:34:35 GMT</time>
+<value>51.97136277 -0.23116317</value>
+<wkt>POINT(-0.23116317 51.97136277)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:34:25 GMT</time>
+<value>51.97136276 -0.23116305</value>
+<wkt>POINT(-0.23116305 51.97136276)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:34:15 GMT</time>
+<value>51.97136275 -0.23116305</value>
+<wkt>POINT(-0.23116305 51.97136275)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:34:05 GMT</time>
+<value>51.97136275 -0.23116307</value>
+<wkt>POINT(-0.23116307 51.97136275)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:33:55 GMT</time>
+<value>51.97136274 -0.23116303</value>
+<wkt>POINT(-0.23116303 51.97136274)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:33:45 GMT</time>
+<value>51.97136272 -0.23116292</value>
+<wkt>POINT(-0.23116292 51.97136272)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:33:35 GMT</time>
+<value>51.97136271 -0.23116284</value>
+<wkt>POINT(-0.23116284 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:33:25 GMT</time>
+<value>51.97136271 -0.23116281</value>
+<wkt>POINT(-0.23116281 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:33:15 GMT</time>
+<value>51.97136271 -0.23116277</value>
+<wkt>POINT(-0.23116277 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:33:05 GMT</time>
+<value>51.97136271 -0.23116275</value>
+<wkt>POINT(-0.23116275 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:32:55 GMT</time>
+<value>51.97136271 -0.23116281</value>
+<wkt>POINT(-0.23116281 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:32:45 GMT</time>
+<value>51.97136271 -0.23116288</value>
+<wkt>POINT(-0.23116288 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:32:35 GMT</time>
+<value>51.97136271 -0.23116294</value>
+<wkt>POINT(-0.23116294 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:32:25 GMT</time>
+<value>51.97136271 -0.23116298</value>
+<wkt>POINT(-0.23116298 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:32:15 GMT</time>
+<value>51.9713627 -0.23116289</value>
+<wkt>POINT(-0.23116289 51.9713627)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:32:05 GMT</time>
+<value>51.97136271 -0.23116287</value>
+<wkt>POINT(-0.23116287 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:31:55 GMT</time>
+<value>51.97136273 -0.23116295</value>
+<wkt>POINT(-0.23116295 51.97136273)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:31:45 GMT</time>
+<value>51.97136274 -0.231163</value>
+<wkt>POINT(-0.231163 51.97136274)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:31:35 GMT</time>
+<value>51.97136274 -0.23116313</value>
+<wkt>POINT(-0.23116313 51.97136274)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:31:25 GMT</time>
+<value>51.97136274 -0.23116307</value>
+<wkt>POINT(-0.23116307 51.97136274)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:31:15 GMT</time>
+<value>51.97136273 -0.23116302</value>
+<wkt>POINT(-0.23116302 51.97136273)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:31:05 GMT</time>
+<value>51.97136272 -0.23116296</value>
+<wkt>POINT(-0.23116296 51.97136272)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:30:55 GMT</time>
+<value>51.97136272 -0.23116299</value>
+<wkt>POINT(-0.23116299 51.97136272)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:30:45 GMT</time>
+<value>51.97136273 -0.23116308</value>
+<wkt>POINT(-0.23116308 51.97136273)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:30:35 GMT</time>
+<value>51.97136274 -0.23116312</value>
+<wkt>POINT(-0.23116312 51.97136274)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:30:05 GMT</time>
+<value>51.97136274 -0.23116323</value>
+<wkt>POINT(-0.23116323 51.97136274)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:29:55 GMT</time>
+<value>51.97136274 -0.23116331</value>
+<wkt>POINT(-0.23116331 51.97136274)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:29:45 GMT</time>
+<value>51.97136274 -0.23116329</value>
+<wkt>POINT(-0.23116329 51.97136274)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:29:35 GMT</time>
+<value>51.97136274 -0.2311633</value>
+<wkt>POINT(-0.2311633 51.97136274)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:29:25 GMT</time>
+<value>51.97136274 -0.23116329</value>
+<wkt>POINT(-0.23116329 51.97136274)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:29:15 GMT</time>
+<value>51.97136273 -0.23116328</value>
+<wkt>POINT(-0.23116328 51.97136273)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:29:05 GMT</time>
+<value>51.97136273 -0.23116324</value>
+<wkt>POINT(-0.23116324 51.97136273)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:28:55 GMT</time>
+<value>51.97136273 -0.23116318</value>
+<wkt>POINT(-0.23116318 51.97136273)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:28:45 GMT</time>
+<value>51.97136273 -0.23116316</value>
+<wkt>POINT(-0.23116316 51.97136273)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:28:35 GMT</time>
+<value>51.97136272 -0.23116315</value>
+<wkt>POINT(-0.23116315 51.97136272)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:28:25 GMT</time>
+<value>51.97136272 -0.23116313</value>
+<wkt>POINT(-0.23116313 51.97136272)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:28:15 GMT</time>
+<value>51.97136272 -0.23116311</value>
+<wkt>POINT(-0.23116311 51.97136272)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:28:05 GMT</time>
+<value>51.97136272 -0.23116309</value>
+<wkt>POINT(-0.23116309 51.97136272)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:27:55 GMT</time>
+<value>51.97136272 -0.23116307</value>
+<wkt>POINT(-0.23116307 51.97136272)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:27:45 GMT</time>
+<value>51.97136271 -0.23116302</value>
+<wkt>POINT(-0.23116302 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:27:35 GMT</time>
+<value>51.97136272 -0.23116305</value>
+<wkt>POINT(-0.23116305 51.97136272)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:27:25 GMT</time>
+<value>51.97136271 -0.23116302</value>
+<wkt>POINT(-0.23116302 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:27:15 GMT</time>
+<value>51.97136271 -0.23116297</value>
+<wkt>POINT(-0.23116297 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:27:05 GMT</time>
+<value>51.9713627 -0.2311629</value>
+<wkt>POINT(-0.2311629 51.9713627)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:26:55 GMT</time>
+<value>51.97136271 -0.23116288</value>
+<wkt>POINT(-0.23116288 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:26:45 GMT</time>
+<value>51.97136271 -0.23116282</value>
+<wkt>POINT(-0.23116282 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:26:35 GMT</time>
+<value>51.97136271 -0.23116281</value>
+<wkt>POINT(-0.23116281 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:26:25 GMT</time>
+<value>51.97136271 -0.2311628</value>
+<wkt>POINT(-0.2311628 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:26:15 GMT</time>
+<value>51.97136271 -0.23116277</value>
+<wkt>POINT(-0.23116277 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:26:05 GMT</time>
+<value>51.97136271 -0.23116278</value>
+<wkt>POINT(-0.23116278 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:25:55 GMT</time>
+<value>51.97136271 -0.23116279</value>
+<wkt>POINT(-0.23116279 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:25:45 GMT</time>
+<value>51.97136271 -0.23116277</value>
+<wkt>POINT(-0.23116277 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:25:35 GMT</time>
+<value>51.97136271 -0.23116269</value>
+<wkt>POINT(-0.23116269 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:25:25 GMT</time>
+<value>51.9713627 -0.23116262</value>
+<wkt>POINT(-0.23116262 51.9713627)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:25:15 GMT</time>
+<value>51.97136269 -0.23116247</value>
+<wkt>POINT(-0.23116247 51.97136269)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:25:05 GMT</time>
+<value>51.97136269 -0.23116242</value>
+<wkt>POINT(-0.23116242 51.97136269)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:24:55 GMT</time>
+<value>51.97136269 -0.23116241</value>
+<wkt>POINT(-0.23116241 51.97136269)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:24:45 GMT</time>
+<value>51.97136269 -0.23116234</value>
+<wkt>POINT(-0.23116234 51.97136269)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:24:35 GMT</time>
+<value>51.97136268 -0.23116222</value>
+<wkt>POINT(-0.23116222 51.97136268)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:24:25 GMT</time>
+<value>51.97136267 -0.23116208</value>
+<wkt>POINT(-0.23116208 51.97136267)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:24:15 GMT</time>
+<value>51.97136267 -0.231162</value>
+<wkt>POINT(-0.231162 51.97136267)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:24:05 GMT</time>
+<value>51.97136266 -0.23116198</value>
+<wkt>POINT(-0.23116198 51.97136266)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:23:55 GMT</time>
+<value>51.97136267 -0.23116196</value>
+<wkt>POINT(-0.23116196 51.97136267)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:23:45 GMT</time>
+<value>51.97136266 -0.23116188</value>
+<wkt>POINT(-0.23116188 51.97136266)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:23:35 GMT</time>
+<value>51.97136266 -0.23116184</value>
+<wkt>POINT(-0.23116184 51.97136266)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:23:25 GMT</time>
+<value>51.97136266 -0.23116181</value>
+<wkt>POINT(-0.23116181 51.97136266)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:23:15 GMT</time>
+<value>51.97136266 -0.2311618</value>
+<wkt>POINT(-0.2311618 51.97136266)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:23:05 GMT</time>
+<value>51.97136267 -0.23116181</value>
+<wkt>POINT(-0.23116181 51.97136267)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:22:55 GMT</time>
+<value>51.97136268 -0.23116187</value>
+<wkt>POINT(-0.23116187 51.97136268)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:22:45 GMT</time>
+<value>51.9713627 -0.23116191</value>
+<wkt>POINT(-0.23116191 51.9713627)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:22:35 GMT</time>
+<value>51.9713627 -0.23116189</value>
+<wkt>POINT(-0.23116189 51.9713627)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:22:25 GMT</time>
+<value>51.9713627 -0.23116188</value>
+<wkt>POINT(-0.23116188 51.9713627)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:22:15 GMT</time>
+<value>51.9713627 -0.23116186</value>
+<wkt>POINT(-0.23116186 51.9713627)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:22:05 GMT</time>
+<value>51.9713627 -0.23116185</value>
+<wkt>POINT(-0.23116185 51.9713627)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:21:55 GMT</time>
+<value>51.97136271 -0.23116191</value>
+<wkt>POINT(-0.23116191 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:21:45 GMT</time>
+<value>51.97136271 -0.23116187</value>
+<wkt>POINT(-0.23116187 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:21:35 GMT</time>
+<value>51.97136271 -0.23116188</value>
+<wkt>POINT(-0.23116188 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:21:25 GMT</time>
+<value>51.97136271 -0.23116183</value>
+<wkt>POINT(-0.23116183 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:21:15 GMT</time>
+<value>51.97136271 -0.23116178</value>
+<wkt>POINT(-0.23116178 51.97136271)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:21:05 GMT</time>
+<value>51.9713627 -0.23116174</value>
+<wkt>POINT(-0.23116174 51.9713627)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:20:55 GMT</time>
+<value>51.9713627 -0.23116179</value>
+<wkt>POINT(-0.23116179 51.9713627)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:20:45 GMT</time>
+<value>51.9713627 -0.23116185</value>
+<wkt>POINT(-0.23116185 51.9713627)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:20:35 GMT</time>
+<value>51.9713627 -0.23116185</value>
+<wkt>POINT(-0.23116185 51.9713627)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:20:25 GMT</time>
+<value>51.97136269 -0.23116184</value>
+<wkt>POINT(-0.23116184 51.97136269)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:20:15 GMT</time>
+<value>51.97136268 -0.23116185</value>
+<wkt>POINT(-0.23116185 51.97136268)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:20:05 GMT</time>
+<value>51.97136267 -0.23116184</value>
+<wkt>POINT(-0.23116184 51.97136267)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:19:55 GMT</time>
+<value>51.97136267 -0.23116183</value>
+<wkt>POINT(-0.23116183 51.97136267)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:19:45 GMT</time>
+<value>51.97136267 -0.23116178</value>
+<wkt>POINT(-0.23116178 51.97136267)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:19:35 GMT</time>
+<value>51.97136266 -0.23116178</value>
+<wkt>POINT(-0.23116178 51.97136266)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:19:25 GMT</time>
+<value>51.97136266 -0.23116175</value>
+<wkt>POINT(-0.23116175 51.97136266)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:19:15 GMT</time>
+<value>51.97136265 -0.23116174</value>
+<wkt>POINT(-0.23116174 51.97136265)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:19:05 GMT</time>
+<value>51.97136265 -0.23116174</value>
+<wkt>POINT(-0.23116174 51.97136265)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:18:55 GMT</time>
+<value>51.97136265 -0.23116177</value>
+<wkt>POINT(-0.23116177 51.97136265)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:18:45 GMT</time>
+<value>51.97136265 -0.23116174</value>
+<wkt>POINT(-0.23116174 51.97136265)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:18:35 GMT</time>
+<value>51.97136265 -0.23116172</value>
+<wkt>POINT(-0.23116172 51.97136265)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:18:25 GMT</time>
+<value>51.97136265 -0.23116176</value>
+<wkt>POINT(-0.23116176 51.97136265)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:18:15 GMT</time>
+<value>51.97136265 -0.23116183</value>
+<wkt>POINT(-0.23116183 51.97136265)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:18:05 GMT</time>
+<value>51.97136264 -0.23116182</value>
+<wkt>POINT(-0.23116182 51.97136264)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:17:55 GMT</time>
+<value>51.97136263 -0.23116182</value>
+<wkt>POINT(-0.23116182 51.97136263)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:17:45 GMT</time>
+<value>51.97136262 -0.23116186</value>
+<wkt>POINT(-0.23116186 51.97136262)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:17:35 GMT</time>
+<value>51.97136263 -0.23116191</value>
+<wkt>POINT(-0.23116191 51.97136263)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:17:25 GMT</time>
+<value>51.97136263 -0.23116194</value>
+<wkt>POINT(-0.23116194 51.97136263)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:17:15 GMT</time>
+<value>51.97136262 -0.23116194</value>
+<wkt>POINT(-0.23116194 51.97136262)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:17:05 GMT</time>
+<value>51.97136262 -0.23116197</value>
+<wkt>POINT(-0.23116197 51.97136262)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:16:55 GMT</time>
+<value>51.97136262 -0.23116195</value>
+<wkt>POINT(-0.23116195 51.97136262)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:16:45 GMT</time>
+<value>51.97136261 -0.23116197</value>
+<wkt>POINT(-0.23116197 51.97136261)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:16:35 GMT</time>
+<value>51.9713626 -0.23116193</value>
+<wkt>POINT(-0.23116193 51.9713626)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:16:25 GMT</time>
+<value>51.97136259 -0.23116191</value>
+<wkt>POINT(-0.23116191 51.97136259)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:16:15 GMT</time>
+<value>51.97136259 -0.23116192</value>
+<wkt>POINT(-0.23116192 51.97136259)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:16:05 GMT</time>
+<value>51.97136259 -0.23116192</value>
+<wkt>POINT(-0.23116192 51.97136259)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:15:55 GMT</time>
+<value>51.97136259 -0.2311619</value>
+<wkt>POINT(-0.2311619 51.97136259)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:15:45 GMT</time>
+<value>51.97136259 -0.2311619</value>
+<wkt>POINT(-0.2311619 51.97136259)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:15:35 GMT</time>
+<value>51.9713626 -0.231162</value>
+<wkt>POINT(-0.231162 51.9713626)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:15:25 GMT</time>
+<value>51.9713626 -0.23116198</value>
+<wkt>POINT(-0.23116198 51.9713626)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:15:15 GMT</time>
+<value>51.9713626 -0.23116196</value>
+<wkt>POINT(-0.23116196 51.9713626)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:15:05 GMT</time>
+<value>51.97136261 -0.23116199</value>
+<wkt>POINT(-0.23116199 51.97136261)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:14:55 GMT</time>
+<value>51.9713626 -0.23116197</value>
+<wkt>POINT(-0.23116197 51.9713626)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:14:45 GMT</time>
+<value>51.9713626 -0.23116192</value>
+<wkt>POINT(-0.23116192 51.9713626)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:14:35 GMT</time>
+<value>51.9713626 -0.23116192</value>
+<wkt>POINT(-0.23116192 51.9713626)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:14:25 GMT</time>
+<value>51.97136259 -0.23116189</value>
+<wkt>POINT(-0.23116189 51.97136259)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:14:15 GMT</time>
+<value>51.9713626 -0.23116194</value>
+<wkt>POINT(-0.23116194 51.9713626)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:14:05 GMT</time>
+<value>51.97136261 -0.23116197</value>
+<wkt>POINT(-0.23116197 51.97136261)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:13:55 GMT</time>
+<value>51.97136262 -0.23116202</value>
+<wkt>POINT(-0.23116202 51.97136262)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:13:45 GMT</time>
+<value>51.97136262 -0.23116206</value>
+<wkt>POINT(-0.23116206 51.97136262)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:13:35 GMT</time>
+<value>51.97136262 -0.23116202</value>
+<wkt>POINT(-0.23116202 51.97136262)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:13:25 GMT</time>
+<value>51.9713626 -0.23116198</value>
+<wkt>POINT(-0.23116198 51.9713626)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:13:15 GMT</time>
+<value>51.97136258 -0.23116184</value>
+<wkt>POINT(-0.23116184 51.97136258)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:13:05 GMT</time>
+<value>51.97136257 -0.23116181</value>
+<wkt>POINT(-0.23116181 51.97136257)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:12:55 GMT</time>
+<value>51.97136258 -0.23116191</value>
+<wkt>POINT(-0.23116191 51.97136258)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:12:45 GMT</time>
+<value>51.97136258 -0.2311619</value>
+<wkt>POINT(-0.2311619 51.97136258)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:12:35 GMT</time>
+<value>51.97136258 -0.23116191</value>
+<wkt>POINT(-0.23116191 51.97136258)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:12:25 GMT</time>
+<value>51.97136256 -0.23116181</value>
+<wkt>POINT(-0.23116181 51.97136256)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:12:15 GMT</time>
+<value>51.97136255 -0.23116173</value>
+<wkt>POINT(-0.23116173 51.97136255)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:12:05 GMT</time>
+<value>51.97136255 -0.23116169</value>
+<wkt>POINT(-0.23116169 51.97136255)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:11:55 GMT</time>
+<value>51.97136255 -0.23116163</value>
+<wkt>POINT(-0.23116163 51.97136255)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:11:45 GMT</time>
+<value>51.97136254 -0.23116159</value>
+<wkt>POINT(-0.23116159 51.97136254)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:11:35 GMT</time>
+<value>51.97136254 -0.23116157</value>
+<wkt>POINT(-0.23116157 51.97136254)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:11:25 GMT</time>
+<value>51.97136256 -0.23116161</value>
+<wkt>POINT(-0.23116161 51.97136256)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:11:15 GMT</time>
+<value>51.97136256 -0.23116155</value>
+<wkt>POINT(-0.23116155 51.97136256)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:11:05 GMT</time>
+<value>51.97136254 -0.23116149</value>
+<wkt>POINT(-0.23116149 51.97136254)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:10:55 GMT</time>
+<value>51.97136253 -0.23116143</value>
+<wkt>POINT(-0.23116143 51.97136253)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:10:45 GMT</time>
+<value>51.97136252 -0.23116137</value>
+<wkt>POINT(-0.23116137 51.97136252)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:10:35 GMT</time>
+<value>51.97136251 -0.23116126</value>
+<wkt>POINT(-0.23116126 51.97136251)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:10:25 GMT</time>
+<value>51.9713625 -0.23116112</value>
+<wkt>POINT(-0.23116112 51.9713625)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:10:05 GMT</time>
+<value>51.97136249 -0.23116098</value>
+<wkt>POINT(-0.23116098 51.97136249)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:09:55 GMT</time>
+<value>51.97136248 -0.23116086</value>
+<wkt>POINT(-0.23116086 51.97136248)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:09:45 GMT</time>
+<value>51.97136249 -0.23116077</value>
+<wkt>POINT(-0.23116077 51.97136249)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:09:35 GMT</time>
+<value>51.97136249 -0.23116078</value>
+<wkt>POINT(-0.23116078 51.97136249)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:09:25 GMT</time>
+<value>51.97136249 -0.23116077</value>
+<wkt>POINT(-0.23116077 51.97136249)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:09:15 GMT</time>
+<value>51.97136248 -0.23116069</value>
+<wkt>POINT(-0.23116069 51.97136248)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:09:05 GMT</time>
+<value>51.97136248 -0.23116067</value>
+<wkt>POINT(-0.23116067 51.97136248)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:08:55 GMT</time>
+<value>51.97136248 -0.23116067</value>
+<wkt>POINT(-0.23116067 51.97136248)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:08:45 GMT</time>
+<value>51.97136247 -0.23116073</value>
+<wkt>POINT(-0.23116073 51.97136247)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:08:35 GMT</time>
+<value>51.97136247 -0.23116078</value>
+<wkt>POINT(-0.23116078 51.97136247)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:08:25 GMT</time>
+<value>51.97136246 -0.23116081</value>
+<wkt>POINT(-0.23116081 51.97136246)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:08:15 GMT</time>
+<value>51.97136246 -0.23116082</value>
+<wkt>POINT(-0.23116082 51.97136246)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:08:05 GMT</time>
+<value>51.97136243 -0.23116072</value>
+<wkt>POINT(-0.23116072 51.97136243)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:07:55 GMT</time>
+<value>51.97136242 -0.23116068</value>
+<wkt>POINT(-0.23116068 51.97136242)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:07:45 GMT</time>
+<value>51.97136242 -0.23116061</value>
+<wkt>POINT(-0.23116061 51.97136242)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:07:35 GMT</time>
+<value>51.9713624 -0.23116055</value>
+<wkt>POINT(-0.23116055 51.9713624)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:07:25 GMT</time>
+<value>51.9713624 -0.23116047</value>
+<wkt>POINT(-0.23116047 51.9713624)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:07:15 GMT</time>
+<value>51.97136238 -0.23116037</value>
+<wkt>POINT(-0.23116037 51.97136238)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:07:05 GMT</time>
+<value>51.97136239 -0.23116036</value>
+<wkt>POINT(-0.23116036 51.97136239)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:06:55 GMT</time>
+<value>51.97136237 -0.23116016</value>
+<wkt>POINT(-0.23116016 51.97136237)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:06:45 GMT</time>
+<value>51.97136234 -0.23116007</value>
+<wkt>POINT(-0.23116007 51.97136234)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:06:35 GMT</time>
+<value>51.97136232 -0.23116002</value>
+<wkt>POINT(-0.23116002 51.97136232)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:06:25 GMT</time>
+<value>51.97136232 -0.23115999</value>
+<wkt>POINT(-0.23115999 51.97136232)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:06:15 GMT</time>
+<value>51.97136233 -0.23116</value>
+<wkt>POINT(-0.23116 51.97136233)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:06:05 GMT</time>
+<value>51.97136233 -0.23115998</value>
+<wkt>POINT(-0.23115998 51.97136233)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:05:55 GMT</time>
+<value>51.97136233 -0.23115995</value>
+<wkt>POINT(-0.23115995 51.97136233)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:05:45 GMT</time>
+<value>51.97136233 -0.23116002</value>
+<wkt>POINT(-0.23116002 51.97136233)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:05:35 GMT</time>
+<value>51.9713623 -0.23115986</value>
+<wkt>POINT(-0.23115986 51.9713623)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:05:25 GMT</time>
+<value>51.9713623 -0.23115989</value>
+<wkt>POINT(-0.23115989 51.9713623)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:05:15 GMT</time>
+<value>51.97136229 -0.23115986</value>
+<wkt>POINT(-0.23115986 51.97136229)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:05:05 GMT</time>
+<value>51.97136229 -0.23115993</value>
+<wkt>POINT(-0.23115993 51.97136229)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:04:55 GMT</time>
+<value>51.97136228 -0.23115988</value>
+<wkt>POINT(-0.23115988 51.97136228)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:04:45 GMT</time>
+<value>51.97136225 -0.2311598</value>
+<wkt>POINT(-0.2311598 51.97136225)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:04:35 GMT</time>
+<value>51.97136224 -0.23115975</value>
+<wkt>POINT(-0.23115975 51.97136224)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:04:25 GMT</time>
+<value>51.97136225 -0.2311598</value>
+<wkt>POINT(-0.2311598 51.97136225)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:04:15 GMT</time>
+<value>51.97136223 -0.23115975</value>
+<wkt>POINT(-0.23115975 51.97136223)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:04:05 GMT</time>
+<value>51.9713622 -0.2311597</value>
+<wkt>POINT(-0.2311597 51.9713622)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:03:55 GMT</time>
+<value>51.97136218 -0.23115969</value>
+<wkt>POINT(-0.23115969 51.97136218)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:03:45 GMT</time>
+<value>51.97136218 -0.23115971</value>
+<wkt>POINT(-0.23115971 51.97136218)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:03:35 GMT</time>
+<value>51.97136221 -0.23115989</value>
+<wkt>POINT(-0.23115989 51.97136221)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:03:25 GMT</time>
+<value>51.97136221 -0.23115989</value>
+<wkt>POINT(-0.23115989 51.97136221)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:03:15 GMT</time>
+<value>51.9713622 -0.23115992</value>
+<wkt>POINT(-0.23115992 51.9713622)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:03:05 GMT</time>
+<value>51.9713622 -0.23115994</value>
+<wkt>POINT(-0.23115994 51.9713622)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:02:55 GMT</time>
+<value>51.97136219 -0.23115997</value>
+<wkt>POINT(-0.23115997 51.97136219)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:02:45 GMT</time>
+<value>51.97136219 -0.23116004</value>
+<wkt>POINT(-0.23116004 51.97136219)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:02:35 GMT</time>
+<value>51.97136217 -0.23116</value>
+<wkt>POINT(-0.23116 51.97136217)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:02:25 GMT</time>
+<value>51.97136217 -0.23116006</value>
+<wkt>POINT(-0.23116006 51.97136217)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:02:15 GMT</time>
+<value>51.97136218 -0.23116015</value>
+<wkt>POINT(-0.23116015 51.97136218)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:02:05 GMT</time>
+<value>51.97136217 -0.23116011</value>
+<wkt>POINT(-0.23116011 51.97136217)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:01:55 GMT</time>
+<value>51.97136217 -0.23116013</value>
+<wkt>POINT(-0.23116013 51.97136217)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:01:45 GMT</time>
+<value>51.97136215 -0.23116005</value>
+<wkt>POINT(-0.23116005 51.97136215)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:01:35 GMT</time>
+<value>51.97136214 -0.23116003</value>
+<wkt>POINT(-0.23116003 51.97136214)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:01:25 GMT</time>
+<value>51.97136215 -0.2311601</value>
+<wkt>POINT(-0.2311601 51.97136215)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:01:15 GMT</time>
+<value>51.97136215 -0.23116009</value>
+<wkt>POINT(-0.23116009 51.97136215)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:01:05 GMT</time>
+<value>51.97136214 -0.2311601</value>
+<wkt>POINT(-0.2311601 51.97136214)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:00:55 GMT</time>
+<value>51.97136214 -0.23116011</value>
+<wkt>POINT(-0.23116011 51.97136214)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:00:45 GMT</time>
+<value>51.97136214 -0.2311601</value>
+<wkt>POINT(-0.2311601 51.97136214)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:00:35 GMT</time>
+<value>51.9713621 -0.23116001</value>
+<wkt>POINT(-0.23116001 51.9713621)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:00:25 GMT</time>
+<value>51.9713621 -0.23116004</value>
+<wkt>POINT(-0.23116004 51.9713621)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:00:15 GMT</time>
+<value>51.97136209 -0.23116004</value>
+<wkt>POINT(-0.23116004 51.97136209)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 15:00:05 GMT</time>
+<value>51.97136208 -0.23116005</value>
+<wkt>POINT(-0.23116005 51.97136208)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:59:55 GMT</time>
+<value>51.97136205 -0.23115998</value>
+<wkt>POINT(-0.23115998 51.97136205)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:59:45 GMT</time>
+<value>51.97136204 -0.23115998</value>
+<wkt>POINT(-0.23115998 51.97136204)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:59:35 GMT</time>
+<value>51.97136202 -0.23115984</value>
+<wkt>POINT(-0.23115984 51.97136202)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:59:25 GMT</time>
+<value>51.97136203 -0.23115983</value>
+<wkt>POINT(-0.23115983 51.97136203)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:59:15 GMT</time>
+<value>51.97136205 -0.23115995</value>
+<wkt>POINT(-0.23115995 51.97136205)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:59:05 GMT</time>
+<value>51.97136208 -0.23116014</value>
+<wkt>POINT(-0.23116014 51.97136208)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:58:55 GMT</time>
+<value>51.97136211 -0.23116029</value>
+<wkt>POINT(-0.23116029 51.97136211)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:58:45 GMT</time>
+<value>51.97136213 -0.23116032</value>
+<wkt>POINT(-0.23116032 51.97136213)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:58:35 GMT</time>
+<value>51.97136211 -0.23116028</value>
+<wkt>POINT(-0.23116028 51.97136211)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:58:25 GMT</time>
+<value>51.97136212 -0.23116022</value>
+<wkt>POINT(-0.23116022 51.97136212)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:58:15 GMT</time>
+<value>51.9713621 -0.23116022</value>
+<wkt>POINT(-0.23116022 51.9713621)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:58:05 GMT</time>
+<value>51.97136208 -0.23116019</value>
+<wkt>POINT(-0.23116019 51.97136208)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:57:55 GMT</time>
+<value>51.97136208 -0.23116025</value>
+<wkt>POINT(-0.23116025 51.97136208)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:57:45 GMT</time>
+<value>51.97136208 -0.23116029</value>
+<wkt>POINT(-0.23116029 51.97136208)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:57:35 GMT</time>
+<value>51.97136209 -0.23116032</value>
+<wkt>POINT(-0.23116032 51.97136209)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:57:25 GMT</time>
+<value>51.97136208 -0.23116047</value>
+<wkt>POINT(-0.23116047 51.97136208)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:57:15 GMT</time>
+<value>51.97136208 -0.23116054</value>
+<wkt>POINT(-0.23116054 51.97136208)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:57:05 GMT</time>
+<value>51.97136208 -0.23116048</value>
+<wkt>POINT(-0.23116048 51.97136208)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:56:55 GMT</time>
+<value>51.97136206 -0.23116029</value>
+<wkt>POINT(-0.23116029 51.97136206)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:56:45 GMT</time>
+<value>51.97136205 -0.23116031</value>
+<wkt>POINT(-0.23116031 51.97136205)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:56:35 GMT</time>
+<value>51.97136206 -0.23116037</value>
+<wkt>POINT(-0.23116037 51.97136206)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:56:25 GMT</time>
+<value>51.97136204 -0.23116031</value>
+<wkt>POINT(-0.23116031 51.97136204)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:56:15 GMT</time>
+<value>51.97136204 -0.23116032</value>
+<wkt>POINT(-0.23116032 51.97136204)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:56:05 GMT</time>
+<value>51.97136202 -0.23116041</value>
+<wkt>POINT(-0.23116041 51.97136202)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:55:55 GMT</time>
+<value>51.97136205 -0.23116052</value>
+<wkt>POINT(-0.23116052 51.97136205)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:55:45 GMT</time>
+<value>51.97136207 -0.23116055</value>
+<wkt>POINT(-0.23116055 51.97136207)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:55:35 GMT</time>
+<value>51.97136207 -0.23116049</value>
+<wkt>POINT(-0.23116049 51.97136207)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:55:25 GMT</time>
+<value>51.97136205 -0.23116053</value>
+<wkt>POINT(-0.23116053 51.97136205)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:55:15 GMT</time>
+<value>51.97136205 -0.23116059</value>
+<wkt>POINT(-0.23116059 51.97136205)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:55:05 GMT</time>
+<value>51.97136204 -0.23116057</value>
+<wkt>POINT(-0.23116057 51.97136204)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:54:55 GMT</time>
+<value>51.971362 -0.23116063</value>
+<wkt>POINT(-0.23116063 51.971362)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:54:45 GMT</time>
+<value>51.97136196 -0.23116064</value>
+<wkt>POINT(-0.23116064 51.97136196)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:54:35 GMT</time>
+<value>51.97136191 -0.23116063</value>
+<wkt>POINT(-0.23116063 51.97136191)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:54:25 GMT</time>
+<value>51.97136189 -0.23116072</value>
+<wkt>POINT(-0.23116072 51.97136189)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:54:15 GMT</time>
+<value>51.97136184 -0.23116075</value>
+<wkt>POINT(-0.23116075 51.97136184)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:54:05 GMT</time>
+<value>51.97136181 -0.2311609</value>
+<wkt>POINT(-0.2311609 51.97136181)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:53:55 GMT</time>
+<value>51.97136183 -0.23116101</value>
+<wkt>POINT(-0.23116101 51.97136183)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:53:45 GMT</time>
+<value>51.97136184 -0.23116104</value>
+<wkt>POINT(-0.23116104 51.97136184)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:53:35 GMT</time>
+<value>51.97136183 -0.23116105</value>
+<wkt>POINT(-0.23116105 51.97136183)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:53:25 GMT</time>
+<value>51.97136183 -0.23116113</value>
+<wkt>POINT(-0.23116113 51.97136183)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:53:15 GMT</time>
+<value>51.97136179 -0.23116108</value>
+<wkt>POINT(-0.23116108 51.97136179)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:53:05 GMT</time>
+<value>51.97136178 -0.2311611</value>
+<wkt>POINT(-0.2311611 51.97136178)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:52:55 GMT</time>
+<value>51.97136178 -0.23116115</value>
+<wkt>POINT(-0.23116115 51.97136178)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:52:45 GMT</time>
+<value>51.97136177 -0.23116119</value>
+<wkt>POINT(-0.23116119 51.97136177)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:52:35 GMT</time>
+<value>51.97136179 -0.23116122</value>
+<wkt>POINT(-0.23116122 51.97136179)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:52:25 GMT</time>
+<value>51.97136181 -0.2311612</value>
+<wkt>POINT(-0.2311612 51.97136181)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:52:15 GMT</time>
+<value>51.97136181 -0.23116118</value>
+<wkt>POINT(-0.23116118 51.97136181)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:52:05 GMT</time>
+<value>51.97136181 -0.23116119</value>
+<wkt>POINT(-0.23116119 51.97136181)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:51:55 GMT</time>
+<value>51.97136182 -0.2311613</value>
+<wkt>POINT(-0.2311613 51.97136182)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:51:45 GMT</time>
+<value>51.97136184 -0.23116144</value>
+<wkt>POINT(-0.23116144 51.97136184)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:51:35 GMT</time>
+<value>51.97136184 -0.23116154</value>
+<wkt>POINT(-0.23116154 51.97136184)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:51:25 GMT</time>
+<value>51.97136184 -0.23116165</value>
+<wkt>POINT(-0.23116165 51.97136184)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:51:15 GMT</time>
+<value>51.97136184 -0.23116177</value>
+<wkt>POINT(-0.23116177 51.97136184)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:51:05 GMT</time>
+<value>51.97136182 -0.23116175</value>
+<wkt>POINT(-0.23116175 51.97136182)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:50:55 GMT</time>
+<value>51.97136181 -0.23116173</value>
+<wkt>POINT(-0.23116173 51.97136181)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:50:45 GMT</time>
+<value>51.9713618 -0.23116164</value>
+<wkt>POINT(-0.23116164 51.9713618)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:50:35 GMT</time>
+<value>51.97136179 -0.23116159</value>
+<wkt>POINT(-0.23116159 51.97136179)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:50:05 GMT</time>
+<value>51.97136177 -0.23116147</value>
+<wkt>POINT(-0.23116147 51.97136177)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:49:55 GMT</time>
+<value>51.97136178 -0.23116154</value>
+<wkt>POINT(-0.23116154 51.97136178)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:49:45 GMT</time>
+<value>51.97136174 -0.23116145</value>
+<wkt>POINT(-0.23116145 51.97136174)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:49:35 GMT</time>
+<value>51.97136173 -0.23116145</value>
+<wkt>POINT(-0.23116145 51.97136173)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:49:25 GMT</time>
+<value>51.97136175 -0.23116151</value>
+<wkt>POINT(-0.23116151 51.97136175)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:49:15 GMT</time>
+<value>51.97136176 -0.23116168</value>
+<wkt>POINT(-0.23116168 51.97136176)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:49:05 GMT</time>
+<value>51.97136171 -0.23116185</value>
+<wkt>POINT(-0.23116185 51.97136171)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:48:55 GMT</time>
+<value>51.97136168 -0.23116186</value>
+<wkt>POINT(-0.23116186 51.97136168)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:48:45 GMT</time>
+<value>51.97136171 -0.23116192</value>
+<wkt>POINT(-0.23116192 51.97136171)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:48:35 GMT</time>
+<value>51.97136168 -0.23116212</value>
+<wkt>POINT(-0.23116212 51.97136168)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:48:25 GMT</time>
+<value>51.97136166 -0.23116227</value>
+<wkt>POINT(-0.23116227 51.97136166)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:48:15 GMT</time>
+<value>51.97136169 -0.23116234</value>
+<wkt>POINT(-0.23116234 51.97136169)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:48:05 GMT</time>
+<value>51.97136166 -0.23116229</value>
+<wkt>POINT(-0.23116229 51.97136166)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:47:55 GMT</time>
+<value>51.97136166 -0.23116238</value>
+<wkt>POINT(-0.23116238 51.97136166)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:47:45 GMT</time>
+<value>51.97136166 -0.23116267</value>
+<wkt>POINT(-0.23116267 51.97136166)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:47:35 GMT</time>
+<value>51.97136168 -0.23116268</value>
+<wkt>POINT(-0.23116268 51.97136168)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:47:25 GMT</time>
+<value>51.97136168 -0.23116264</value>
+<wkt>POINT(-0.23116264 51.97136168)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:47:15 GMT</time>
+<value>51.97136168 -0.23116254</value>
+<wkt>POINT(-0.23116254 51.97136168)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:47:05 GMT</time>
+<value>51.97136167 -0.23116258</value>
+<wkt>POINT(-0.23116258 51.97136167)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:46:55 GMT</time>
+<value>51.97136168 -0.23116264</value>
+<wkt>POINT(-0.23116264 51.97136168)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:46:45 GMT</time>
+<value>51.97136167 -0.23116263</value>
+<wkt>POINT(-0.23116263 51.97136167)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:46:35 GMT</time>
+<value>51.97136168 -0.23116267</value>
+<wkt>POINT(-0.23116267 51.97136168)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:46:25 GMT</time>
+<value>51.97136167 -0.23116265</value>
+<wkt>POINT(-0.23116265 51.97136167)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:46:15 GMT</time>
+<value>51.97136168 -0.23116257</value>
+<wkt>POINT(-0.23116257 51.97136168)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:46:05 GMT</time>
+<value>51.97136167 -0.23116249</value>
+<wkt>POINT(-0.23116249 51.97136167)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:45:55 GMT</time>
+<value>51.97136168 -0.23116247</value>
+<wkt>POINT(-0.23116247 51.97136168)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:45:45 GMT</time>
+<value>51.97136169 -0.23116247</value>
+<wkt>POINT(-0.23116247 51.97136169)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:45:35 GMT</time>
+<value>51.9713617 -0.23116248</value>
+<wkt>POINT(-0.23116248 51.9713617)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:45:25 GMT</time>
+<value>51.97136169 -0.23116249</value>
+<wkt>POINT(-0.23116249 51.97136169)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:45:15 GMT</time>
+<value>51.97136168 -0.23116249</value>
+<wkt>POINT(-0.23116249 51.97136168)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:45:05 GMT</time>
+<value>51.97136169 -0.23116252</value>
+<wkt>POINT(-0.23116252 51.97136169)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:44:55 GMT</time>
+<value>51.9713617 -0.23116257</value>
+<wkt>POINT(-0.23116257 51.9713617)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:44:45 GMT</time>
+<value>51.97136171 -0.23116258</value>
+<wkt>POINT(-0.23116258 51.97136171)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:44:35 GMT</time>
+<value>51.97136172 -0.23116259</value>
+<wkt>POINT(-0.23116259 51.97136172)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:44:25 GMT</time>
+<value>51.97136171 -0.23116255</value>
+<wkt>POINT(-0.23116255 51.97136171)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:44:15 GMT</time>
+<value>51.97136169 -0.23116246</value>
+<wkt>POINT(-0.23116246 51.97136169)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:44:05 GMT</time>
+<value>51.97136173 -0.23116292</value>
+<wkt>POINT(-0.23116292 51.97136173)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:43:55 GMT</time>
+<value>51.97136179 -0.2311633</value>
+<wkt>POINT(-0.2311633 51.97136179)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:43:45 GMT</time>
+<value>51.97136183 -0.23116355</value>
+<wkt>POINT(-0.23116355 51.97136183)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:43:35 GMT</time>
+<value>51.97136168 -0.23116245</value>
+<wkt>POINT(-0.23116245 51.97136168)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:43:25 GMT</time>
+<value>51.9713615 -0.23116142</value>
+<wkt>POINT(-0.23116142 51.9713615)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:43:15 GMT</time>
+<value>51.97136145 -0.23116118</value>
+<wkt>POINT(-0.23116118 51.97136145)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:43:05 GMT</time>
+<value>51.97136144 -0.23116113</value>
+<wkt>POINT(-0.23116113 51.97136144)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:42:55 GMT</time>
+<value>51.97136143 -0.23116112</value>
+<wkt>POINT(-0.23116112 51.97136143)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:42:45 GMT</time>
+<value>51.97136142 -0.2311611</value>
+<wkt>POINT(-0.2311611 51.97136142)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:42:35 GMT</time>
+<value>51.97136142 -0.2311611</value>
+<wkt>POINT(-0.2311611 51.97136142)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:42:25 GMT</time>
+<value>51.97136142 -0.23116101</value>
+<wkt>POINT(-0.23116101 51.97136142)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:42:15 GMT</time>
+<value>51.97136141 -0.23116084</value>
+<wkt>POINT(-0.23116084 51.97136141)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:42:05 GMT</time>
+<value>51.97136139 -0.2311608</value>
+<wkt>POINT(-0.2311608 51.97136139)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:41:55 GMT</time>
+<value>51.97136137 -0.23116062</value>
+<wkt>POINT(-0.23116062 51.97136137)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:41:45 GMT</time>
+<value>51.97136136 -0.23116061</value>
+<wkt>POINT(-0.23116061 51.97136136)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:41:35 GMT</time>
+<value>51.97136137 -0.2311607</value>
+<wkt>POINT(-0.2311607 51.97136137)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:41:25 GMT</time>
+<value>51.97136139 -0.23116076</value>
+<wkt>POINT(-0.23116076 51.97136139)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:41:15 GMT</time>
+<value>51.9713614 -0.2311607</value>
+<wkt>POINT(-0.2311607 51.9713614)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:41:05 GMT</time>
+<value>51.97136142 -0.2311607</value>
+<wkt>POINT(-0.2311607 51.97136142)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:40:55 GMT</time>
+<value>51.97136142 -0.23116068</value>
+<wkt>POINT(-0.23116068 51.97136142)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:40:45 GMT</time>
+<value>51.97136144 -0.23116067</value>
+<wkt>POINT(-0.23116067 51.97136144)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:40:35 GMT</time>
+<value>51.97136145 -0.2311607</value>
+<wkt>POINT(-0.2311607 51.97136145)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:40:25 GMT</time>
+<value>51.97136147 -0.23116069</value>
+<wkt>POINT(-0.23116069 51.97136147)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:40:15 GMT</time>
+<value>51.97136149 -0.23116066</value>
+<wkt>POINT(-0.23116066 51.97136149)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:40:05 GMT</time>
+<value>51.97136149 -0.23116054</value>
+<wkt>POINT(-0.23116054 51.97136149)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:39:55 GMT</time>
+<value>51.97136151 -0.23116054</value>
+<wkt>POINT(-0.23116054 51.97136151)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:39:45 GMT</time>
+<value>51.97136152 -0.23116054</value>
+<wkt>POINT(-0.23116054 51.97136152)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:39:35 GMT</time>
+<value>51.97136154 -0.23116055</value>
+<wkt>POINT(-0.23116055 51.97136154)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:39:25 GMT</time>
+<value>51.97136153 -0.23116054</value>
+<wkt>POINT(-0.23116054 51.97136153)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:39:15 GMT</time>
+<value>51.97136153 -0.23116042</value>
+<wkt>POINT(-0.23116042 51.97136153)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:39:05 GMT</time>
+<value>51.97136154 -0.23116042</value>
+<wkt>POINT(-0.23116042 51.97136154)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:38:55 GMT</time>
+<value>51.97136156 -0.23116049</value>
+<wkt>POINT(-0.23116049 51.97136156)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:38:45 GMT</time>
+<value>51.97136157 -0.23116041</value>
+<wkt>POINT(-0.23116041 51.97136157)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:38:35 GMT</time>
+<value>51.97136166 -0.23116049</value>
+<wkt>POINT(-0.23116049 51.97136166)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:38:25 GMT</time>
+<value>51.97136445 -0.23116332</value>
+<wkt>POINT(-0.23116332 51.97136445)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:38:24 GMT</time>
+<value>51.97136478 -0.23116326</value>
+<wkt>POINT(-0.23116326 51.97136478)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:37:43 GMT</time>
+<value>51.97136549 -0.23116343</value>
+<wkt>POINT(-0.23116343 51.97136549)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:37:33 GMT</time>
+<value>51.97136549 -0.23116338</value>
+<wkt>POINT(-0.23116338 51.97136549)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:37:23 GMT</time>
+<value>51.9713655 -0.2311633</value>
+<wkt>POINT(-0.2311633 51.9713655)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:37:13 GMT</time>
+<value>51.97136549 -0.2311632</value>
+<wkt>POINT(-0.2311632 51.97136549)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:37:03 GMT</time>
+<value>51.97136548 -0.23116317</value>
+<wkt>POINT(-0.23116317 51.97136548)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:36:53 GMT</time>
+<value>51.97136547 -0.23116306</value>
+<wkt>POINT(-0.23116306 51.97136547)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:36:43 GMT</time>
+<value>51.9713655 -0.23116297</value>
+<wkt>POINT(-0.23116297 51.9713655)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:36:33 GMT</time>
+<value>51.97136551 -0.231163</value>
+<wkt>POINT(-0.231163 51.97136551)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:36:23 GMT</time>
+<value>51.97136552 -0.23116295</value>
+<wkt>POINT(-0.23116295 51.97136552)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:36:13 GMT</time>
+<value>51.97136556 -0.23116296</value>
+<wkt>POINT(-0.23116296 51.97136556)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:36:03 GMT</time>
+<value>51.97136563 -0.23116307</value>
+<wkt>POINT(-0.23116307 51.97136563)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:35:53 GMT</time>
+<value>51.97136563 -0.23116303</value>
+<wkt>POINT(-0.23116303 51.97136563)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:35:43 GMT</time>
+<value>51.97136561 -0.23116291</value>
+<wkt>POINT(-0.23116291 51.97136561)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:35:33 GMT</time>
+<value>51.97136564 -0.23116289</value>
+<wkt>POINT(-0.23116289 51.97136564)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:35:23 GMT</time>
+<value>51.97136566 -0.23116287</value>
+<wkt>POINT(-0.23116287 51.97136566)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:35:13 GMT</time>
+<value>51.97136567 -0.23116283</value>
+<wkt>POINT(-0.23116283 51.97136567)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:35:03 GMT</time>
+<value>51.97136571 -0.23116296</value>
+<wkt>POINT(-0.23116296 51.97136571)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:34:53 GMT</time>
+<value>51.97136573 -0.23116299</value>
+<wkt>POINT(-0.23116299 51.97136573)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:34:43 GMT</time>
+<value>51.97136569 -0.23116304</value>
+<wkt>POINT(-0.23116304 51.97136569)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:34:33 GMT</time>
+<value>51.97136564 -0.23116302</value>
+<wkt>POINT(-0.23116302 51.97136564)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:34:23 GMT</time>
+<value>51.97136559 -0.23116295</value>
+<wkt>POINT(-0.23116295 51.97136559)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:34:13 GMT</time>
+<value>51.9713656 -0.23116301</value>
+<wkt>POINT(-0.23116301 51.9713656)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:34:03 GMT</time>
+<value>51.97136562 -0.23116314</value>
+<wkt>POINT(-0.23116314 51.97136562)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:33:53 GMT</time>
+<value>51.97136564 -0.23116312</value>
+<wkt>POINT(-0.23116312 51.97136564)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:33:44 GMT</time>
+<value>51.97136562 -0.23116267</value>
+<wkt>POINT(-0.23116267 51.97136562)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:33:34 GMT</time>
+<value>51.97136619 -0.231167</value>
+<wkt>POINT(-0.231167 51.97136619)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:33:24 GMT</time>
+<value>51.97136873 -0.23117745</value>
+<wkt>POINT(-0.23117745 51.97136873)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:32:51 GMT</time>
+<value>51.97136871 -0.23117734</value>
+<wkt>POINT(-0.23117734 51.97136871)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:32:41 GMT</time>
+<value>51.97136872 -0.23117725</value>
+<wkt>POINT(-0.23117725 51.97136872)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:32:31 GMT</time>
+<value>51.97136872 -0.23117722</value>
+<wkt>POINT(-0.23117722 51.97136872)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:32:21 GMT</time>
+<value>51.97136876 -0.23117729</value>
+<wkt>POINT(-0.23117729 51.97136876)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:32:11 GMT</time>
+<value>51.97136884 -0.23117737</value>
+<wkt>POINT(-0.23117737 51.97136884)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:32:01 GMT</time>
+<value>51.97136886 -0.23117694</value>
+<wkt>POINT(-0.23117694 51.97136886)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:31:51 GMT</time>
+<value>51.9713689 -0.231177</value>
+<wkt>POINT(-0.231177 51.9713689)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:31:41 GMT</time>
+<value>51.97136892 -0.23117707</value>
+<wkt>POINT(-0.23117707 51.97136892)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:31:31 GMT</time>
+<value>51.97136893 -0.23117721</value>
+<wkt>POINT(-0.23117721 51.97136893)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:31:21 GMT</time>
+<value>51.97136898 -0.23117739</value>
+<wkt>POINT(-0.23117739 51.97136898)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:31:11 GMT</time>
+<value>51.971369 -0.23117745</value>
+<wkt>POINT(-0.23117745 51.971369)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:31:01 GMT</time>
+<value>51.97136901 -0.23117747</value>
+<wkt>POINT(-0.23117747 51.97136901)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:30:51 GMT</time>
+<value>51.97136906 -0.23117781</value>
+<wkt>POINT(-0.23117781 51.97136906)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:30:41 GMT</time>
+<value>51.9713691 -0.2311779</value>
+<wkt>POINT(-0.2311779 51.9713691)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:30:31 GMT</time>
+<value>51.97136909 -0.23117789</value>
+<wkt>POINT(-0.23117789 51.97136909)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:30:21 GMT</time>
+<value>51.97136911 -0.23117793</value>
+<wkt>POINT(-0.23117793 51.97136911)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:30:01 GMT</time>
+<value>51.97136913 -0.23117812</value>
+<wkt>POINT(-0.23117812 51.97136913)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:29:51 GMT</time>
+<value>51.97136914 -0.23117828</value>
+<wkt>POINT(-0.23117828 51.97136914)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:29:41 GMT</time>
+<value>51.9713692 -0.23117845</value>
+<wkt>POINT(-0.23117845 51.9713692)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:29:31 GMT</time>
+<value>51.97136923 -0.23117859</value>
+<wkt>POINT(-0.23117859 51.97136923)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:29:21 GMT</time>
+<value>51.97136926 -0.23117853</value>
+<wkt>POINT(-0.23117853 51.97136926)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:29:11 GMT</time>
+<value>51.9713693 -0.23117852</value>
+<wkt>POINT(-0.23117852 51.9713693)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:29:01 GMT</time>
+<value>51.97136933 -0.23117857</value>
+<wkt>POINT(-0.23117857 51.97136933)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:28:51 GMT</time>
+<value>51.97136934 -0.23117859</value>
+<wkt>POINT(-0.23117859 51.97136934)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:28:45 GMT</time>
+<value>51.97136936 -0.23117878</value>
+<wkt>POINT(-0.23117878 51.97136936)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:28:35 GMT</time>
+<value>51.97136963 -0.23117948</value>
+<wkt>POINT(-0.23117948 51.97136963)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:28:25 GMT</time>
+<value>51.97136918 -0.23118235</value>
+<wkt>POINT(-0.23118235 51.97136918)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:27:48 GMT</time>
+<value>51.97136886 -0.23118283</value>
+<wkt>POINT(-0.23118283 51.97136886)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:27:38 GMT</time>
+<value>51.97136894 -0.23118311</value>
+<wkt>POINT(-0.23118311 51.97136894)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:27:28 GMT</time>
+<value>51.97136905 -0.23118333</value>
+<wkt>POINT(-0.23118333 51.97136905)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:27:18 GMT</time>
+<value>51.97136908 -0.23118344</value>
+<wkt>POINT(-0.23118344 51.97136908)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:27:08 GMT</time>
+<value>51.97136912 -0.23118359</value>
+<wkt>POINT(-0.23118359 51.97136912)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:26:58 GMT</time>
+<value>51.97136921 -0.2311839</value>
+<wkt>POINT(-0.2311839 51.97136921)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:26:48 GMT</time>
+<value>51.97136925 -0.23118409</value>
+<wkt>POINT(-0.23118409 51.97136925)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:26:38 GMT</time>
+<value>51.97136929 -0.23118435</value>
+<wkt>POINT(-0.23118435 51.97136929)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:26:28 GMT</time>
+<value>51.97136934 -0.23118451</value>
+<wkt>POINT(-0.23118451 51.97136934)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:26:18 GMT</time>
+<value>51.97136937 -0.23118457</value>
+<wkt>POINT(-0.23118457 51.97136937)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:26:08 GMT</time>
+<value>51.97136939 -0.23118463</value>
+<wkt>POINT(-0.23118463 51.97136939)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:25:58 GMT</time>
+<value>51.97136939 -0.2311847</value>
+<wkt>POINT(-0.2311847 51.97136939)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:25:48 GMT</time>
+<value>51.97136942 -0.23118473</value>
+<wkt>POINT(-0.23118473 51.97136942)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:25:38 GMT</time>
+<value>51.97136946 -0.23118479</value>
+<wkt>POINT(-0.23118479 51.97136946)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:25:28 GMT</time>
+<value>51.97136946 -0.23118492</value>
+<wkt>POINT(-0.23118492 51.97136946)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:25:18 GMT</time>
+<value>51.97136948 -0.23118497</value>
+<wkt>POINT(-0.23118497 51.97136948)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:25:08 GMT</time>
+<value>51.97136948 -0.23118506</value>
+<wkt>POINT(-0.23118506 51.97136948)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:24:58 GMT</time>
+<value>51.97136949 -0.23118516</value>
+<wkt>POINT(-0.23118516 51.97136949)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:24:48 GMT</time>
+<value>51.97136954 -0.23118527</value>
+<wkt>POINT(-0.23118527 51.97136954)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:24:38 GMT</time>
+<value>51.97136954 -0.23118536</value>
+<wkt>POINT(-0.23118536 51.97136954)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:24:28 GMT</time>
+<value>51.97136951 -0.23118497</value>
+<wkt>POINT(-0.23118497 51.97136951)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:24:18 GMT</time>
+<value>51.9713695 -0.23118502</value>
+<wkt>POINT(-0.23118502 51.9713695)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:24:08 GMT</time>
+<value>51.97136947 -0.23118513</value>
+<wkt>POINT(-0.23118513 51.97136947)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:23:58 GMT</time>
+<value>51.97136945 -0.23118534</value>
+<wkt>POINT(-0.23118534 51.97136945)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:23:48 GMT</time>
+<value>51.97136945 -0.23118544</value>
+<wkt>POINT(-0.23118544 51.97136945)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:23:38 GMT</time>
+<value>51.97136943 -0.23118578</value>
+<wkt>POINT(-0.23118578 51.97136943)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:23:28 GMT</time>
+<value>51.97136925 -0.23118529</value>
+<wkt>POINT(-0.23118529 51.97136925)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:23:18 GMT</time>
+<value>51.97136921 -0.23118645</value>
+<wkt>POINT(-0.23118645 51.97136921)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:23:08 GMT</time>
+<value>51.9713682 -0.23119371</value>
+<wkt>POINT(-0.23119371 51.9713682)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:22:42 GMT</time>
+<value>51.97136728 -0.23119492</value>
+<wkt>POINT(-0.23119492 51.97136728)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:22:32 GMT</time>
+<value>51.97136732 -0.23119499</value>
+<wkt>POINT(-0.23119499 51.97136732)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:22:22 GMT</time>
+<value>51.97136735 -0.23119501</value>
+<wkt>POINT(-0.23119501 51.97136735)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:22:12 GMT</time>
+<value>51.97136738 -0.23119501</value>
+<wkt>POINT(-0.23119501 51.97136738)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:22:02 GMT</time>
+<value>51.97136739 -0.23119519</value>
+<wkt>POINT(-0.23119519 51.97136739)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:21:52 GMT</time>
+<value>51.9713674 -0.23119547</value>
+<wkt>POINT(-0.23119547 51.9713674)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:21:42 GMT</time>
+<value>51.97136736 -0.23119604</value>
+<wkt>POINT(-0.23119604 51.97136736)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:21:32 GMT</time>
+<value>51.97136742 -0.23119647</value>
+<wkt>POINT(-0.23119647 51.97136742)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:21:22 GMT</time>
+<value>51.97136745 -0.23119697</value>
+<wkt>POINT(-0.23119697 51.97136745)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:21:12 GMT</time>
+<value>51.97136748 -0.2311974</value>
+<wkt>POINT(-0.2311974 51.97136748)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:21:02 GMT</time>
+<value>51.97136752 -0.23119783</value>
+<wkt>POINT(-0.23119783 51.97136752)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:20:52 GMT</time>
+<value>51.97136758 -0.2311984</value>
+<wkt>POINT(-0.2311984 51.97136758)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:20:42 GMT</time>
+<value>51.97136757 -0.23119867</value>
+<wkt>POINT(-0.23119867 51.97136757)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:20:32 GMT</time>
+<value>51.97136752 -0.23119851</value>
+<wkt>POINT(-0.23119851 51.97136752)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:20:22 GMT</time>
+<value>51.97136749 -0.23119847</value>
+<wkt>POINT(-0.23119847 51.97136749)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:20:12 GMT</time>
+<value>51.97136745 -0.2311985</value>
+<wkt>POINT(-0.2311985 51.97136745)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:20:02 GMT</time>
+<value>51.97136743 -0.23119885</value>
+<wkt>POINT(-0.23119885 51.97136743)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:19:52 GMT</time>
+<value>51.97136736 -0.23119887</value>
+<wkt>POINT(-0.23119887 51.97136736)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:19:42 GMT</time>
+<value>51.97136731 -0.23119888</value>
+<wkt>POINT(-0.23119888 51.97136731)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:19:32 GMT</time>
+<value>51.97136725 -0.23119875</value>
+<wkt>POINT(-0.23119875 51.97136725)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:19:22 GMT</time>
+<value>51.97136728 -0.23119896</value>
+<wkt>POINT(-0.23119896 51.97136728)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:19:12 GMT</time>
+<value>51.97136726 -0.23119939</value>
+<wkt>POINT(-0.23119939 51.97136726)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:19:02 GMT</time>
+<value>51.97136721 -0.23119949</value>
+<wkt>POINT(-0.23119949 51.97136721)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:18:52 GMT</time>
+<value>51.97136716 -0.23119962</value>
+<wkt>POINT(-0.23119962 51.97136716)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:18:42 GMT</time>
+<value>51.97136714 -0.2311997</value>
+<wkt>POINT(-0.2311997 51.97136714)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:18:32 GMT</time>
+<value>51.97136835 -0.23120319</value>
+<wkt>POINT(-0.23120319 51.97136835)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:18:25 GMT</time>
+<value>51.97136982 -0.2312047</value>
+<wkt>POINT(-0.2312047 51.97136982)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:17:49 GMT</time>
+<value>51.97137135 -0.23120516</value>
+<wkt>POINT(-0.23120516 51.97137135)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:17:39 GMT</time>
+<value>51.97137139 -0.23120524</value>
+<wkt>POINT(-0.23120524 51.97137139)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:17:29 GMT</time>
+<value>51.97137134 -0.23120516</value>
+<wkt>POINT(-0.23120516 51.97137134)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:17:19 GMT</time>
+<value>51.9713713 -0.23120507</value>
+<wkt>POINT(-0.23120507 51.9713713)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:17:09 GMT</time>
+<value>51.97137133 -0.23120506</value>
+<wkt>POINT(-0.23120506 51.97137133)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:16:59 GMT</time>
+<value>51.97137132 -0.23120507</value>
+<wkt>POINT(-0.23120507 51.97137132)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:16:49 GMT</time>
+<value>51.97137136 -0.2312051</value>
+<wkt>POINT(-0.2312051 51.97137136)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:16:39 GMT</time>
+<value>51.97137136 -0.23120512</value>
+<wkt>POINT(-0.23120512 51.97137136)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:16:29 GMT</time>
+<value>51.97137137 -0.23120522</value>
+<wkt>POINT(-0.23120522 51.97137137)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:16:19 GMT</time>
+<value>51.97137139 -0.23120527</value>
+<wkt>POINT(-0.23120527 51.97137139)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:16:09 GMT</time>
+<value>51.97137143 -0.23120533</value>
+<wkt>POINT(-0.23120533 51.97137143)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:15:59 GMT</time>
+<value>51.97137153 -0.23120534</value>
+<wkt>POINT(-0.23120534 51.97137153)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:15:49 GMT</time>
+<value>51.97137152 -0.23120532</value>
+<wkt>POINT(-0.23120532 51.97137152)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:15:39 GMT</time>
+<value>51.97137156 -0.23120534</value>
+<wkt>POINT(-0.23120534 51.97137156)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:15:29 GMT</time>
+<value>51.97137159 -0.2312052</value>
+<wkt>POINT(-0.2312052 51.97137159)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:15:19 GMT</time>
+<value>51.9713716 -0.23120518</value>
+<wkt>POINT(-0.23120518 51.9713716)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:15:09 GMT</time>
+<value>51.97137167 -0.23120501</value>
+<wkt>POINT(-0.23120501 51.97137167)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:14:59 GMT</time>
+<value>51.97137169 -0.23120594</value>
+<wkt>POINT(-0.23120594 51.97137169)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:14:49 GMT</time>
+<value>51.97137168 -0.23120575</value>
+<wkt>POINT(-0.23120575 51.97137168)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:14:39 GMT</time>
+<value>51.97137175 -0.2312058</value>
+<wkt>POINT(-0.2312058 51.97137175)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:14:29 GMT</time>
+<value>51.97137181 -0.23120582</value>
+<wkt>POINT(-0.23120582 51.97137181)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:14:19 GMT</time>
+<value>51.97137179 -0.23120589</value>
+<wkt>POINT(-0.23120589 51.97137179)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:14:09 GMT</time>
+<value>51.97137174 -0.23120582</value>
+<wkt>POINT(-0.23120582 51.97137174)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:13:59 GMT</time>
+<value>51.97137188 -0.23120543</value>
+<wkt>POINT(-0.23120543 51.97137188)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:13:49 GMT</time>
+<value>51.97137192 -0.23120537</value>
+<wkt>POINT(-0.23120537 51.97137192)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:13:39 GMT</time>
+<value>51.97137209 -0.23120596</value>
+<wkt>POINT(-0.23120596 51.97137209)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:13:29 GMT</time>
+<value>51.97137065 -0.23120957</value>
+<wkt>POINT(-0.23120957 51.97137065)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:13:23 GMT</time>
+<value>51.97136607 -0.23121209</value>
+<wkt>POINT(-0.23121209 51.97136607)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:12:47 GMT</time>
+<value>51.97136516 -0.23121148</value>
+<wkt>POINT(-0.23121148 51.97136516)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:12:37 GMT</time>
+<value>51.97136502 -0.23121143</value>
+<wkt>POINT(-0.23121143 51.97136502)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:12:27 GMT</time>
+<value>51.97136487 -0.23121132</value>
+<wkt>POINT(-0.23121132 51.97136487)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:12:17 GMT</time>
+<value>51.97136483 -0.23121125</value>
+<wkt>POINT(-0.23121125 51.97136483)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:12:07 GMT</time>
+<value>51.97136484 -0.23121145</value>
+<wkt>POINT(-0.23121145 51.97136484)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:11:57 GMT</time>
+<value>51.97136478 -0.23121158</value>
+<wkt>POINT(-0.23121158 51.97136478)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:11:47 GMT</time>
+<value>51.97136475 -0.23121179</value>
+<wkt>POINT(-0.23121179 51.97136475)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:11:37 GMT</time>
+<value>51.97136481 -0.23121222</value>
+<wkt>POINT(-0.23121222 51.97136481)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:11:27 GMT</time>
+<value>51.97136481 -0.23121224</value>
+<wkt>POINT(-0.23121224 51.97136481)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:11:17 GMT</time>
+<value>51.97136468 -0.23121223</value>
+<wkt>POINT(-0.23121223 51.97136468)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:11:07 GMT</time>
+<value>51.9713647 -0.2312123</value>
+<wkt>POINT(-0.2312123 51.9713647)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:10:57 GMT</time>
+<value>51.97136472 -0.23121233</value>
+<wkt>POINT(-0.23121233 51.97136472)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:10:47 GMT</time>
+<value>51.97136466 -0.23121231</value>
+<wkt>POINT(-0.23121231 51.97136466)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:10:37 GMT</time>
+<value>51.97136472 -0.23121238</value>
+<wkt>POINT(-0.23121238 51.97136472)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:10:27 GMT</time>
+<value>51.97136474 -0.23121239</value>
+<wkt>POINT(-0.23121239 51.97136474)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:09:57 GMT</time>
+<value>51.97136477 -0.23121257</value>
+<wkt>POINT(-0.23121257 51.97136477)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:09:47 GMT</time>
+<value>51.97136463 -0.23121339</value>
+<wkt>POINT(-0.23121339 51.97136463)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:09:37 GMT</time>
+<value>51.97136466 -0.23121337</value>
+<wkt>POINT(-0.23121337 51.97136466)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:09:27 GMT</time>
+<value>51.97136475 -0.23121338</value>
+<wkt>POINT(-0.23121338 51.97136475)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:09:17 GMT</time>
+<value>51.97136477 -0.23121342</value>
+<wkt>POINT(-0.23121342 51.97136477)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:09:07 GMT</time>
+<value>51.97136476 -0.23121346</value>
+<wkt>POINT(-0.23121346 51.97136476)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:08:57 GMT</time>
+<value>51.97136475 -0.23121351</value>
+<wkt>POINT(-0.23121351 51.97136475)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:08:47 GMT</time>
+<value>51.97136477 -0.2312135</value>
+<wkt>POINT(-0.2312135 51.97136477)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:08:37 GMT</time>
+<value>51.97136476 -0.2312135</value>
+<wkt>POINT(-0.2312135 51.97136476)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:08:27 GMT</time>
+<value>51.97136704 -0.23121334</value>
+<wkt>POINT(-0.23121334 51.97136704)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:08:19 GMT</time>
+<value>51.97137905 -0.23120955</value>
+<wkt>POINT(-0.23120955 51.97137905)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:07:49 GMT</time>
+<value>51.97138115 -0.23120921</value>
+<wkt>POINT(-0.23120921 51.97138115)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:07:39 GMT</time>
+<value>51.97138135 -0.23120927</value>
+<wkt>POINT(-0.23120927 51.97138135)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:07:29 GMT</time>
+<value>51.97138136 -0.23120919</value>
+<wkt>POINT(-0.23120919 51.97138136)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:07:19 GMT</time>
+<value>51.97138133 -0.23120912</value>
+<wkt>POINT(-0.23120912 51.97138133)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:07:09 GMT</time>
+<value>51.97138158 -0.23120926</value>
+<wkt>POINT(-0.23120926 51.97138158)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:06:59 GMT</time>
+<value>51.97138176 -0.231209</value>
+<wkt>POINT(-0.231209 51.97138176)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:06:49 GMT</time>
+<value>51.97138188 -0.2312088</value>
+<wkt>POINT(-0.2312088 51.97138188)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:06:39 GMT</time>
+<value>51.97138199 -0.23120865</value>
+<wkt>POINT(-0.23120865 51.97138199)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:06:29 GMT</time>
+<value>51.97138204 -0.23120819</value>
+<wkt>POINT(-0.23120819 51.97138204)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:06:19 GMT</time>
+<value>51.97138198 -0.23120795</value>
+<wkt>POINT(-0.23120795 51.97138198)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:06:09 GMT</time>
+<value>51.97138192 -0.23120768</value>
+<wkt>POINT(-0.23120768 51.97138192)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:05:59 GMT</time>
+<value>51.97138194 -0.23120718</value>
+<wkt>POINT(-0.23120718 51.97138194)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:05:49 GMT</time>
+<value>51.97138206 -0.23120643</value>
+<wkt>POINT(-0.23120643 51.97138206)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:05:39 GMT</time>
+<value>51.97138198 -0.231206</value>
+<wkt>POINT(-0.231206 51.97138198)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:05:29 GMT</time>
+<value>51.97138191 -0.23120591</value>
+<wkt>POINT(-0.23120591 51.97138191)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:05:19 GMT</time>
+<value>51.97138187 -0.23120559</value>
+<wkt>POINT(-0.23120559 51.97138187)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:05:09 GMT</time>
+<value>51.97138201 -0.23120565</value>
+<wkt>POINT(-0.23120565 51.97138201)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:04:59 GMT</time>
+<value>51.97138216 -0.23120618</value>
+<wkt>POINT(-0.23120618 51.97138216)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:04:49 GMT</time>
+<value>51.97138221 -0.23120619</value>
+<wkt>POINT(-0.23120619 51.97138221)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:04:39 GMT</time>
+<value>51.97138227 -0.2312061</value>
+<wkt>POINT(-0.2312061 51.97138227)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:04:29 GMT</time>
+<value>51.97138236 -0.23120604</value>
+<wkt>POINT(-0.23120604 51.97138236)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:04:19 GMT</time>
+<value>51.97138232 -0.2312059</value>
+<wkt>POINT(-0.2312059 51.97138232)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:04:09 GMT</time>
+<value>51.9713824 -0.23120635</value>
+<wkt>POINT(-0.23120635 51.9713824)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:03:59 GMT</time>
+<value>51.97138288 -0.23120721</value>
+<wkt>POINT(-0.23120721 51.97138288)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:03:49 GMT</time>
+<value>51.97138362 -0.23121118</value>
+<wkt>POINT(-0.23121118 51.97138362)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:03:39 GMT</time>
+<value>51.97138396 -0.23121692</value>
+<wkt>POINT(-0.23121692 51.97138396)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:03:29 GMT</time>
+<value>51.97138277 -0.23123041</value>
+<wkt>POINT(-0.23123041 51.97138277)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:03:23 GMT</time>
+<value>51.97138389 -0.23123752</value>
+<wkt>POINT(-0.23123752 51.97138389)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:02:47 GMT</time>
+<value>51.97138254 -0.23123676</value>
+<wkt>POINT(-0.23123676 51.97138254)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:02:37 GMT</time>
+<value>51.97138256 -0.23123686</value>
+<wkt>POINT(-0.23123686 51.97138256)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:02:27 GMT</time>
+<value>51.97138259 -0.23123687</value>
+<wkt>POINT(-0.23123687 51.97138259)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:02:17 GMT</time>
+<value>51.97138258 -0.23123667</value>
+<wkt>POINT(-0.23123667 51.97138258)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:02:07 GMT</time>
+<value>51.97138258 -0.23123673</value>
+<wkt>POINT(-0.23123673 51.97138258)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:01:57 GMT</time>
+<value>51.97138269 -0.23123684</value>
+<wkt>POINT(-0.23123684 51.97138269)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:01:47 GMT</time>
+<value>51.97138281 -0.23123688</value>
+<wkt>POINT(-0.23123688 51.97138281)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:01:37 GMT</time>
+<value>51.9713831 -0.23123715</value>
+<wkt>POINT(-0.23123715 51.9713831)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:01:27 GMT</time>
+<value>51.97138314 -0.23123708</value>
+<wkt>POINT(-0.23123708 51.97138314)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:01:17 GMT</time>
+<value>51.9713831 -0.23123697</value>
+<wkt>POINT(-0.23123697 51.9713831)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:01:07 GMT</time>
+<value>51.97138309 -0.231237</value>
+<wkt>POINT(-0.231237 51.97138309)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:00:57 GMT</time>
+<value>51.97138313 -0.23123701</value>
+<wkt>POINT(-0.23123701 51.97138313)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:00:47 GMT</time>
+<value>51.97138323 -0.23123705</value>
+<wkt>POINT(-0.23123705 51.97138323)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:00:37 GMT</time>
+<value>51.97138315 -0.23123769</value>
+<wkt>POINT(-0.23123769 51.97138315)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:00:27 GMT</time>
+<value>51.97138325 -0.23123799</value>
+<wkt>POINT(-0.23123799 51.97138325)</wkt>
+</point>
+<point>
+<time>Tue, 08 Oct 2013 14:00:17 GMT</time>
+<value>51.97138348 -0.23123839</value>
+<wkt>POINT(-0.23123839 51.97138348)</wkt>
+</point>
+</points>
