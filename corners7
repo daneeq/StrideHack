@@ -1,3 +1,3 @@
-8.571242332458496
-7.2783732414245605
-7.4316020011901855
+map.drawOverlay({lat: 52.05256656924697, lng: 1.3314010669171499, content: '<div class="overlay">Cornering<div class="overlay_arrow above"></div>', verticalAlign: 'top', horizontalAlign: 'center'});
+map.drawOverlay({lat: 52.0524640783475, lng: 1.3314278627722747, content: '<div class="overlay">Cornering<div class="overlay_arrow above"></div>', verticalAlign: 'top', horizontalAlign: 'center'});
+map.drawOverlay({lat: 52.05207456970259, lng: 1.3317294650982654, content: '<div class="overlay">Cornering<div class="overlay_arrow above"></div>', verticalAlign: 'top', horizontalAlign: 'center'});
