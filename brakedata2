@@ -1,0 +1,6 @@
+map.drawOverlay({lat: , lng: , content: '<div class="overlay">Braking<div class="overlay_arrow above"></div>', verticalAlign: 'top', horizontalAlign: 'center'});
+map.drawOverlay({lat: 52.052568600579, lng: 1.33040394867039, content: '<div class="overlay">Braking<div class="overlay_arrow above"></div>', verticalAlign: 'top', horizontalAlign: 'center'});
+map.drawOverlay({lat: 52.05024559575991, lng: 1.2871759035676724, content: '<div class="overlay">Braking<div class="overlay_arrow above"></div>', verticalAlign: 'top', horizontalAlign: 'center'});
+map.drawOverlay({lat: 52.047900883690666, lng: 1.2766803952457861, content: '<div class="overlay">Braking<div class="overlay_arrow above"></div>', verticalAlign: 'top', horizontalAlign: 'center'});
+map.drawOverlay({lat: 52.060799902347846, lng: 1.2780633446824823, content: '<div class="overlay">Braking<div class="overlay_arrow above"></div>', verticalAlign: 'top', horizontalAlign: 'center'});
+map.drawOverlay({lat: 52.05877690985901, lng: 1.2792817943321912, content: '<div class="overlay">Braking<div class="overlay_arrow above"></div>', verticalAlign: 'top', horizontalAlign: 'center'});

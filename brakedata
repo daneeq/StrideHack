@@ -1,0 +1,1 @@
+map.drawOverlay({lat: , lng: , content: '<div class="overlay">Braking<div class="overlay_arrow above"></div>', verticalAlign: 'top', horizontalAlign: 'center'});
